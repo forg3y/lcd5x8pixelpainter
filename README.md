@@ -1,3 +1,4 @@
+```
 Compile + run this python script to start painting 5x8 pixel grids.
 
 If your arduino project has #include <LiquidCrystal.h> ...
@@ -53,3 +54,4 @@ lcd.write(byte(x));       // select the guy from before, maybe you can do this b
                           // createChar() it first though and assign it a slot
 
 aaaand that should probably do it!
+```
